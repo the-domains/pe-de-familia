@@ -1,0 +1,28 @@
+name: Pé de família
+favicon: null
+layout_spectrum: 0.2705150886904448
+typography_spectrum: 0.31396192079409957
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.585442051757127
+  lightness: 0.4606668541673571
+  saturation: 0.9121013167314231
+  rhythmicContrast: 0.1836482563521713
+purpose: []
