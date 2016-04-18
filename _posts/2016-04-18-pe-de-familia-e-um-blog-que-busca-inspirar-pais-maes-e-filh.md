@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pé de Família é um blog que busca inspirar pais, mães e filhos do Brasil a deixarem a criatividade falar mais alto no seu cotidiano familiar. Aqui buscamos compartilhar um pouco de nossas ideias e tentativas para mostrar que um pouco de dedicação e ousadia é capaz de transformar um lar e uma família para melhor. '
-datePublished: '2016-04-18T12:53:14.347Z'
-dateModified: '2016-04-18T12:53:01.035Z'
+datePublished: '2016-04-18T12:57:14.971Z'
+dateModified: '2016-04-18T12:57:07.123Z'
 title: ''
 author: []
 authors: []
