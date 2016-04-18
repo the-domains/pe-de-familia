@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pé de família]]></title>
+        <description><![CDATA[Pé de família]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 12:53:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pé de Família é um blog que busca inspirar pais, mães e filhos do Brasil a deixarem a criatividade falar mais alto no seu cotidiano familiar. Aqui buscamos compartilhar um pouco de nossas ideias e tentativas para mostrar que um pouco de dedicação e ousadia é capaz de transformar um lar e uma família para melhor. </p>]]></description>
+            <link>undefinedpe-de-familia-e-um-blog-que-busca-inspirar-pais-maes-e-filh/index.html</link>
+            <guid isPermaLink="false">34dec9d8-bd8f-4666-9f61-fe46e66fe4e0</guid>
+            <pubDate>Mon, 18 Apr 2016 12:53:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
